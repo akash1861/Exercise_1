@@ -69,7 +69,6 @@ Once you see "done", select the black arrow next to the lab1 folder (far left to
 
 You should see that some packages and modules have been installed. Ignore any warnings in the terminal.
 
-⚠️
 
 As this course is self paced, often people will start the lab then come back to it later. in the interim period we may have made adjustments to the code.
 
