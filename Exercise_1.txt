@@ -125,4 +125,4 @@ Choose Services and search for dynamo then choose DynamoDB to pivot to the conso
 Choose Tables.
 If your code worked, you will see that your table has been (or is being) created in the US East (N. Virginia) Region.
 
-Select the name of your table. In the Overview tab, you should see something similar to this:
+Select the name of your table. In the Overview tab, you should see something similar to this
